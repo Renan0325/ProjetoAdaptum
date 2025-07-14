@@ -54,7 +54,7 @@ namespace RegionAPI.Service
             {
                 Uf = region.Uf,
                 Nome = region.Nome,
-                Ativo = region.Ativo,
+                Ativo = true,
             };
 
             await _context.Regions.AddAsync(newRegion);

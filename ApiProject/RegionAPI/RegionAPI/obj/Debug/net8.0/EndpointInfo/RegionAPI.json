@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Region": {
+    "/api/region": {
       "get": {
         "tags": [
           "Region"
@@ -75,7 +75,7 @@
         }
       }
     },
-    "/api/Region/{id}": {
+    "/api/region/{id}": {
       "get": {
         "tags": [
           "Region"
@@ -98,7 +98,7 @@
         }
       }
     },
-    "/api/Region/{id}/Inactivate": {
+    "/api/region/{id}/inactive": {
       "patch": {
         "tags": [
           "Region"
@@ -121,7 +121,7 @@
         }
       }
     },
-    "/api/Region/{id}/ativar": {
+    "/api/region/{id}/active": {
       "patch": {
         "tags": [
           "Region"

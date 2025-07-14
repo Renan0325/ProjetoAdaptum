@@ -130,6 +130,7 @@ C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj
 C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RegionAPI.props
 C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RegionAPI.props
 C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj\Debug\net8.0\RegionAPI.csproj.Up2Date
 C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj\Debug\net8.0\RegionAPI.dll
 C:\Users\Renan Silva\Documents\ProjetoAdaptum\ApiProject\RegionAPI\RegionAPI\obj\Debug\net8.0\refint\RegionAPI.dll

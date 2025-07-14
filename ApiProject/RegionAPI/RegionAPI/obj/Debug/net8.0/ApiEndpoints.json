@@ -2,7 +2,7 @@
   {
     "ContainingType": "RegionAPI.Controllers.RegionController",
     "Method": "GetRegionsList",
-    "RelativePath": "api/Region",
+    "RelativePath": "api/region",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -11,8 +11,8 @@
   },
   {
     "ContainingType": "RegionAPI.Controllers.RegionController",
-    "Method": "Post",
-    "RelativePath": "api/Region",
+    "Method": "CreatedRegion",
+    "RelativePath": "api/region",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -27,8 +27,8 @@
   },
   {
     "ContainingType": "RegionAPI.Controllers.RegionController",
-    "Method": "Put",
-    "RelativePath": "api/Region",
+    "Method": "UpdatedRegion",
+    "RelativePath": "api/region",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -44,7 +44,7 @@
   {
     "ContainingType": "RegionAPI.Controllers.RegionController",
     "Method": "GetRegionById",
-    "RelativePath": "api/Region/{id}",
+    "RelativePath": "api/region/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -60,7 +60,7 @@
   {
     "ContainingType": "RegionAPI.Controllers.RegionController",
     "Method": "Ativar",
-    "RelativePath": "api/Region/{id}/ativar",
+    "RelativePath": "api/region/{id}/active",
     "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
@@ -76,7 +76,7 @@
   {
     "ContainingType": "RegionAPI.Controllers.RegionController",
     "Method": "Inactivate",
-    "RelativePath": "api/Region/{id}/Inactivate",
+    "RelativePath": "api/region/{id}/inactive",
     "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
