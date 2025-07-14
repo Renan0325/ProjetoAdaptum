@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S9folnQ6rpeLPfFoF+8puaiLlEu8mumol8KTgKgof8w=",
+  "Source": "RegionAPI",
+  "BasePath": "_content/RegionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

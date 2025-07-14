@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renan Silva\\Documents\\ProjetoAdaptum\\ApiProject\\RegionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8963FD8C-BF72-44D5-90F3-94D37DB7A5F9}|RegionAPI\\RegionAPI.csproj|c:\\users\\renan silva\\documents\\projetoadaptum\\apiproject\\regionapi\\regionapi\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8963FD8C-BF72-44D5-90F3-94D37DB7A5F9}|RegionAPI\\RegionAPI.csproj|solutionrelative:regionapi\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "C:\\Users\\Renan Silva\\Documents\\ProjetoAdaptum\\ApiProject\\RegionAPI\\RegionAPI\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "RegionAPI\\Controllers\\RegionController.cs",
+              "ToolTip": "C:\\Users\\Renan Silva\\Documents\\ProjetoAdaptum\\ApiProject\\RegionAPI\\RegionAPI\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "RegionAPI\\Controllers\\RegionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:05.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
