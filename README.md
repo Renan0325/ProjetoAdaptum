@@ -1,6 +1,11 @@
-# 🗂️ Avaliação Desenvolvedor Web Júnior – CRUD de Regiões
+# 🗂️ Projeto CRUD de Regiões
 
-Este projeto foi desenvolvido como parte da avaliação técnica da empresa **Adaptum** para a vaga de **Desenvolvedor Web Júnior**. O objetivo é implementar um sistema completo com **CRUD de Regiões**, respeitando as regras de negócio e boas práticas de arquitetura, além de entregar um frontend funcional e visualmente agradável.
+Este é um sistema completo de **cadastro e gerenciamento de regiões**, desenvolvido com foco em **boas práticas**, **interface intuitiva** e **arquitetura escalável**.
+
+O sistema permite a **criação, listagem, edição, ativação e inativação** de regiões, respeitando regras como unicidade por UF + Nome e controle de status. Toda a aplicação é dividida em duas camadas — **backend em .NET** e **frontend em React.js**, integradas via API RESTful.
+
+Este projeto tem como objetivo demonstrar a capacidade de entregar uma solução funcional, bem estruturada e qualidade de código.
+
 
 ---
 
